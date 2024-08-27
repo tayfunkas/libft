@@ -1,7 +1,5 @@
 # libft
 
-## About
-
 Libft is a fundamental project at 42 programming school that involves recreating various standard C library functions. This project deepens understanding of basic algorithms and data structures, serving as a foundation for future projects at 42. Many of the files include commented out main functions to help with testing. The functions are written in line with norminette rules of 42 schools and they are reused in other projects.  
 
 ## Key Learnings
